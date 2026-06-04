@@ -1,0 +1,8 @@
+Stage	NewName	hpf	CellNum	Division	Ref
+Ctrld1	Control	24	46847	15.51566904	Cell state transitions are decoupled from cell division during early embryo development
+cell64	64-cell	2	64	6	-
+hpf3	1k-cell	3	1000	9.965784285	-
+epiboly30	30%-epiboly	4.7	7003	12.77375737	Cell state transitions are decoupled from cell division during early embryo development
+bud	Bud	10	19280	14.23481743	Cell state transitions are decoupled from cell division during early embryo development
+dpf1	Prim-5	24	46847	15.51566904	Cell state transitions are decoupled from cell division during early embryo development
+hpf30	Prim-15	30	65525	15.99975783	Helab 10xfish: 672800;598000; 694950

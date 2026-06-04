@@ -1,0 +1,164 @@
+identity.super	NewName	GermLayer	BaseColor	LightColor	Color	Order	ZFIN
+blastomeres	blastomeres	Blast	#880000	#FF0000	#880000	1	https://zfin.org/action/ontology/term/ZFA:0000093
+blastula	blastula	Blast	#880000	#FF0000	#9F0000	2	
+gastrula	gastrula	Blast	#880000	#FF0000	#B70000	3	
+hatching gland	hatching gland	Hypoblast	#880000	#FF0000	#CF0000	4	https://zfin.org/action/ontology/term/ZFA:0000026;https://zfin.org/action/ontology/term/ZFA:0000058;https://zfin.org/action/ontology/term/ZFA:0000004
+axial progenitors	axial progenitors	Hypoblast	#880000	#FF0000	#E70000	5	https://zfin.org/action/ontology/term/ZFA:0001378
+primordial germ cells	primordial germ cells	PGC	#880000	#FF0000	#FF0000	6	https://zfin.org/action/ontology/term/ZFA:0009288
+progenitors	progenitors	Mixture	#9E5400	#eb7f00	#9E5400	7	
+mitotic cells	mitotic cells	Mixture	#9E5400	#eb7f00	#A55800	8	
+ciliated cells	ciliated cells	Mixture	#9E5400	#eb7f00	#AD5C00	9	https://zfin.org/action/ontology/term/ZFA:0009032
+tail bud	tail bud	Mixture	#9E5400	#eb7f00	#B56000	10	https://zfin.org/action/ontology/term/ZFA:0000077;https://zfin.org/action/ontology/term/ZFA:0000038
+tail	tail	Mixture	#9E5400	#eb7f00	#BC6500	11	
+pharynx	pharynx	pharynx	#9E5400	#eb7f00	#C46900	12	https://zfin.org/action/ontology/term/ZFA:0000056
+pharyngeal	pharyngeal	pharynx	#9E5400	#eb7f00	#CC6D00	13	
+pharyngeal arch	pharyngeal arch	pharynx	#9E5400	#eb7f00	#D37200	14	https://zfin.org/action/ontology/term/ZFA:0001306
+pharyngeal pouch	pharyngeal pouch	pharynx	#9E5400	#eb7f00	#DB7600	15	https://zfin.org/action/ontology/term/ZFA:0001106
+pharyngeal ectoderm	pharyngeal ectoderm	pharynx	#9E5400	#eb7f00	#E37A00	16	https://zfin.org/action/ontology/term/ZFA:0001379
+gill	gill	pharynx	#9E5400	#eb7f00	#EB7F00	17	https://zfin.org/action/ontology/term/ZFA:0000354;https://zfin.org/action/ontology/term/ZFA:0001107;https://zfin.org/action/ontology/term/ZFA:0001106;https://zfin.org/action/ontology/term/ZFA:0001104
+ectoderm	ectoderm	NeuEcto	#016433	#60E6B0	#016433	18	
+neural plate	neural plate	NeuEcto	#016433	#60E6B0	#036635	19	https://zfin.org/action/ontology/term/ZFA:0000063
+neural crest	neural crest	NeuEcto	#016433	#60E6B0	#056938	20	https://zfin.org/action/ontology/term/ZFA:0000132;https://zfin.org/action/ontology/term/ZFA:0007082
+lateral line primordium	lateral line primordium	NeuEcto	#016433	#60E6B0	#076C3B	21	https://zfin.org/action/ontology/term/ZFA:0000228;https://zfin.org/action/ontology/term/ZFA:0000034
+spinal cord	spinal cord	NeuEcto	#016433	#60E6B0	#096F3E	22	https://zfin.org/action/ontology/term/ZFA:0000075
+floor plate	floor plate	NeuEcto	#016433	#60E6B0	#0B7240	23	https://zfin.org/action/ontology/term/ZFA:0000022
+midbrain-hindbrain boundary	midbrain-hindbrain boundary	NeuEcto	#016433	#60E6B0	#0D7543	24	https://zfin.org/action/ontology/term/GO:0030917
+telencephalon	telencephalon	NeuEcto	#016433	#60E6B0	#0F7846	25	https://zfin.org/action/ontology/term/ZFA:0000079
+ventral forebrain	ventral forebrain	NeuEcto	#016433	#60E6B0	#117B49	26	https://zfin.org/action/ontology/term/ZFA:0000109
+diencephalon	diencephalon	NeuEcto	#016433	#60E6B0	#147E4C	27	https://zfin.org/action/ontology/term/ZFA:0000101
+preoptic area	preoptic area	NeuEcto	#016433	#60E6B0	#16804E	28	https://zfin.org/action/ontology/term/ZFA:0000470
+midbrain	midbrain	NeuEcto	#016433	#60E6B0	#188351	29	https://zfin.org/action/ontology/term/ZFA:0000128
+optic tectum	optic tectum	NeuEcto	#016433	#60E6B0	#1A8654	30	https://zfin.org/action/ontology/term/ZFA:0000445
+hindbrain	hindbrain	NeuEcto	#016433	#60E6B0	#1C8957	31	https://zfin.org/action/ontology/term/ZFA:0000029
+cerebellum	cerebellum	NeuEcto	#016433	#60E6B0	#1E8C59	32	https://zfin.org/action/ontology/term/ZFA:0000100
+epiphysis	epiphysis	NeuEcto	#016433	#60E6B0	#208F5C	33	https://zfin.org/ZDB-TERM-100331-19#
+pinealocytes	pinealocytes	NeuEcto	#016433	#60E6B0	#22925F	34	https://zfin.org/action/ontology/term/ZFA:0009284
+epiphysis photoreceptor cells	epiphysis photoreceptor cells	NeuEcto	#016433	#60E6B0	#249562	35	https://zfin.org/ZDB-TERM-100331-19#
+optic field	optic field	NeuEcto	#016433	#60E6B0	#279865	36	https://zfin.org/action/ontology/term/ZFA:0000570
+optic primordia	optic primordia	NeuEcto	#016433	#60E6B0	#299A67	37	https://zfin.org/action/ontology/term/ZFA:0000570
+optic cup	optic cup	NeuEcto	#016433	#60E6B0	#2B9D6A	38	https://zfin.org/action/ontology/term/ZFA:0001202
+retinal pigmented epithelium	retinal pigmented epithelium	NeuEcto	#016433	#60E6B0	#2DA06D	39	https://zfin.org/action/ontology/term/ZFA:0000144
+retina	retina	NeuEcto	#016433	#60E6B0	#2FA370	40	https://zfin.org/action/ontology/term/ZFA:0000152
+retinal progenitors	retinal progenitors	NeuEcto	#016433	#60E6B0	#31A672	41	https://zfin.org/action/ontology/term/ZFA:0000152
+newborn neurons (Muller glia progeny)	Muller glia progeny	NeuEcto	#016433	#60E6B0	#33A975	42	https://zfin.org/action/ontology/term/ZFA:0009073
+photoreceptors	photoreceptors	NeuEcto	#016433	#60E6B0	#35AC78	43	https://zfin.org/ZFA:0009127
+rod photoreceptors	rod photoreceptors	NeuEcto	#016433	#60E6B0	#37AF7B	44	https://zfin.org/ZFA:0009127
+retinal ganglion cells	retinal ganglion cells	NeuEcto	#016433	#60E6B0	#3AB27D	45	https://zfin.org/ZDB-TERM-100331-2367
+retinal bipolar cells	retinal bipolar cells	NeuEcto	#016433	#60E6B0	#3CB480	46	https://zfin.org/action/ontology/term/ZFA:0009322
+horizontal cells	horizontal cells	NeuEcto	#016433	#60E6B0	#3EB783	47	https://zfin.org/action/ontology/term/ZFA:0009315
+retinal interneurons	retinal interneurons	NeuEcto	#016433	#60E6B0	#40BA86	48	https://zfin.org/action/ontology/term/ZFA:0000152
+neurons	neurons	NeuEcto	#016433	#60E6B0	#42BD89	49	https://zfin.org/action/ontology/term/ZFA:0009248
+sensory neurons	sensory neurons	NeuEcto	#016433	#60E6B0	#44C08B	50	https://zfin.org/action/ontology/term/ZFA:0009053
+enteric neurons	enteric neurons	NeuEcto	#016433	#60E6B0	#46C38E	51	https://zfin.org/action/ontology/term/ZFA:0005775
+motor neurons	motor neurons	NeuEcto	#016433	#60E6B0	#48C691	52	https://zfin.org/action/ontology/term/ZFA:0009052
+Kolmer-Agduhr / CSF-contacting neurons	Kolmer-Agduhr neurons	NeuEcto	#016433	#60E6B0	#4AC994	53	https://zfin.org/action/ontology/term/ZFA:0005240
+Purkinje neurons	Purkinje neurons	NeuEcto	#016433	#60E6B0	#4DCC97	54	https://zfin.org/action/ontology/term/ZFA:0009071
+radial glia	radial glia	NeuEcto	#016433	#60E6B0	#4FCE99	55	https://zfin.org/action/ontology/term/ZFA:0009292
+radial glia (+ some floor plate)	radial glia	NeuEcto	#016433	#60E6B0	#4FCE99	55	https://zfin.org/action/ontology/term/ZFA:0009292
+oligodendrocytes	oligodendrocytes	NeuEcto	#016433	#60E6B0	#51D19C	57	https://zfin.org/action/ontology/term/ZFA:0009076#
+melanoblasts	melanoblasts	NeuEcto	#016433	#60E6B0	#53D49F	58	https://zfin.org/action/ontology/term/ZFA:0009249
+melanocytes	melanocytes	NeuEcto	#016433	#60E6B0	#55D7A2	59	https://zfin.org/action/ontology/term/ZFA:0009091
+melanoblasts/melanocytes	melanocytes	NeuEcto	#016433	#60E6B0	#55D7A2	59	https://zfin.org/action/ontology/term/ZFA:0009091
+xanthoblasts	xanthoblasts	NeuEcto	#016433	#60E6B0	#57DAA4	61	https://zfin.org/action/ontology/term/ZFA:0005245
+xanthophores	xanthophores	NeuEcto	#016433	#60E6B0	#59DDA7	62	https://zfin.org/action/ontology/term/ZFA:0009198
+iridoblasts	iridoblasts	NeuEcto	#016433	#60E6B0	#5BE0AA	63	https://zfin.org/action/ontology/term/ZFA:0005328
+iridophores	iridophores	NeuEcto	#016433	#60E6B0	#5DE3AD	64	https://zfin.org/action/ontology/term/ZFA:0009199
+meninges	meninges	NeuEcto	#016433	#60E6B0	#60E6B0	65	https://zfin.org/action/ontology/term/ZFA:0001355
+non-neural ectoderm	non-neural ectoderm	SurEcto	#3F1D31	#FF6DA3	#3F1D31	66	https://zfin.org/action/ontology/term/ZFA:0001178
+otic	otic	SurEcto	#3F1D31	#FF6DA3	#4B2238	67	https://zfin.org/ZFA:0000051#
+placode	otic placode	SurEcto	#3F1D31	#FF6DA3	#57273F	68	https://zfin.org/action/ontology/term/ZFA:0000138
+placodal ectoderm	placodal ectoderm	SurEcto	#3F1D31	#FF6DA3	#632C46	69	https://zfin.org/GO:0071696
+epidermis	epidermis	SurEcto	#3F1D31	#FF6DA3	#6F304D	70	https://zfin.org/action/ontology/term/ZFA:0000105
+epidermis/placodal ectoderm	epidermis	SurEcto	#3F1D31	#FF6DA3	#6F304D	70	https://zfin.org/action/ontology/term/ZFA:0000105
+epidermis/periderm	epidermis	SurEcto	#3F1D31	#FF6DA3	#6F304D	70	https://zfin.org/action/ontology/term/ZFA:0000105
+periderm	periderm	SurEcto	#3F1D31	#FF6DA3	#7B3654	73	https://zfin.org/action/ontology/term/ZFA:0001185
+mucous secreting	mucous secreting	SurEcto	#3F1D31	#FF6DA3	#873B5B	74	https://zfin.org/action/ontology/term/ZFA:0009159
+mucous-secreting	mucous secreting	SurEcto	#3F1D31	#FF6DA3	#873B5B	74	https://zfin.org/action/ontology/term/ZFA:0009159
+fin epidermis	fin epidermis	SurEcto	#3F1D31	#FF6DA3	#934062	76	https://zfin.org/action/ontology/term/ZFA:0000105
+fin periderm	fin periderm	SurEcto	#3F1D31	#FF6DA3	#9F4569	77	https://zfin.org/action/ontology/term/ZFA:0001185
+lens	lens	SurEcto	#3F1D31	#FF6DA3	#AB4971	78	https://zfin.org/action/ontology/term/ZFA:0000035#
+olfactory epithelium	olfactory epithelium	SurEcto	#3F1D31	#FF6DA3	#B74F78	79	https://zfin.org/action/ontology/term/ZFA:0000554
+olfactory sensory receptor neurons	olfactory receptor neurons	SurEcto	#3F1D31	#FF6DA3	#C3547F	80	https://zfin.org/action/ontology/term/ZFA:0009125
+ionocytes	ionocytes	SurEcto	#3F1D31	#FF6DA3	#CF5986	81	https://zfin.org/action/ontology/term/ZFA:0005323;https://zfin.org/action/ontology/term/ZFA:0007123;https://zfin.org/action/ontology/term/ZFA:0007122
+ionocytes/mucous	ionocytes	SurEcto	#3F1D31	#FF6DA3	#CF5986	81	https://zfin.org/action/ontology/term/ZFA:0005323;https://zfin.org/action/ontology/term/ZFA:0007123;https://zfin.org/action/ontology/term/ZFA:0007122
+fin ionocytes	fin ionocytes	SurEcto	#3F1D31	#FF6DA3	#DB5D8D	83	https://zfin.org/action/ontology/term/ZFA:0005323;https://zfin.org/action/ontology/term/ZFA:0007123;https://zfin.org/action/ontology/term/ZFA:0007122
+adenohypophysis	adenohypophysis	SurEcto	#3F1D31	#FF6DA3	#E76394	84	https://zfin.org/action/ontology/term/ZFA:0001282;https://zfin.org/action/ontology/term/ZFA:0001198;https://zfin.org/action/ontology/term/ZFA:0001178
+epithelial cells	epithelial cells	SurEcto	#3F1D31	#FF6DA3	#F3689B	85	https://zfin.org/action/ontology/term/ZFA:0009034;https://zfin.org/action/ontology/term/ZFA:0001486
+taste epithelium	taste epithelium	SurEcto	#3F1D31	#FF6DA3	#FF6DA3	86	https://zfin.org/action/ontology/term/ZFA:0001074
+axial mesoderm	axial mesoderm	Meso	#366E8E	#10D4FA	#366E8E	87	https://zfin.org/action/ontology/term/ZFA:0001204
+prechordal plate	prechordal plate	Meso	#366E8E	#10D4FA	#357090	88	https://zfin.org/action/ontology/term/ZFA:0000060
+notochord	notochord	Meso	#366E8E	#10D4FA	#347292	89	https://zfin.org/action/ontology/term/ZFA:0000135;https://zfin.org/action/ontology/term/ZFA:0000091
+ventral marginal mesoderm	ventral marginal mesoderm	Meso	#366E8E	#10D4FA	#337494	90	https://zfin.org/action/ontology/term/ZFA:0000083
+ventrolateral mesoderm	ventrolateral mesoderm	Meso	#366E8E	#10D4FA	#337696	91	https://zfin.org/action/ontology/term/ZFA:0000121
+presomitic mesoderm	presomitic mesoderm	Meso	#366E8E	#10D4FA	#327898	92	https://zfin.org/action/ontology/term/ZFA:0000279
+presomitic/somitic mesoderm	presomitic mesoderm	Meso	#366E8E	#10D4FA	#327898	92	https://zfin.org/action/ontology/term/ZFA:0000279
+somitic mesoderm	somite	Meso	#366E8E	#10D4FA	#317A9A	94	https://zfin.org/action/ontology/term/ZFA:0000155
+somite	somite	Meso	#366E8E	#10D4FA	#317A9A	94	https://zfin.org/action/ontology/term/ZFA:0000155
+somites 1-6	somite	Meso	#366E8E	#10D4FA	#317A9A	94	https://zfin.org/action/ontology/term/ZFA:0000155
+adaxial cells	adaxial cells	Meso	#366E8E	#10D4FA	#307C9C	97	https://zfin.org/action/ontology/term/ZFA:0000003
+sclerotome	sclerotome	Meso	#366E8E	#10D4FA	#307E9E	98	https://zfin.org/action/ontology/term/ZFA:0001080
+sclerotome/satellite cells	sclerotome	Meso	#366E8E	#10D4FA	#307E9E	98	https://zfin.org/action/ontology/term/ZFA:0001080
+cartilage	cartilage	Meso	#366E8E	#10D4FA	#2F80A1	100	https://zfin.org/ZFA:0001501
+cartilage/tendon	cartilage	Meso	#366E8E	#10D4FA	#2F80A1	100	https://zfin.org/ZFA:0001501
+parachordal cartilage	parachordal cartilage	Meso	#366E8E	#10D4FA	#2E82A3	102	https://zfin.org/action/ontology/term/ZFA:0001423
+osteoblasts	osteoblasts	Meso	#366E8E	#10D4FA	#2D84A5	103	https://zfin.org/action/ontology/term/ZFA:0009031#;https://zfin.org/action/ontology/term/ZFA:0009184;https://zfin.org/action/ontology/term/ZFA:0009166;https://zfin.org/action/ontology/term/ZFA:0009081;https://zfin.org/action/ontology/term/ZFA:0009138
+fibroblasts	fibroblasts	Meso	#366E8E	#10D4FA	#2D86A7	104	https://zfin.org/action/ontology/term/ZFA:0009026;https://zfin.org/action/ontology/term/ZFA:0009081
+fibroblast	fibroblasts	Meso	#366E8E	#10D4FA	#2D86A7	104	https://zfin.org/action/ontology/term/ZFA:0009026;https://zfin.org/action/ontology/term/ZFA:0009081
+stromal cells	stromal cells	Meso	#366E8E	#10D4FA	#2C88A9	106	https://zfin.org/action/ontology/term/ZFA:0009226;https://zfin.org/action/ontology/term/ZFA:0009081
+muscle precursor cells	muscle precursor cells	Meso	#366E8E	#10D4FA	#2B8AAB	107	https://zfin.org/action/ontology/term/ZFA:0009291
+migratory muscle precursors	migratory muscle precursors	Meso	#366E8E	#10D4FA	#2A8CAD	108	https://zfin.org/action/ontology/term/ZFA:0005921
+fast muscle cell	fast muscle cell	Meso	#366E8E	#10D4FA	#2A8EAF	109	https://zfin.org/action/ontology/term/ZFA:0009117
+slow muscle	slow muscle	Meso	#366E8E	#10D4FA	#2990B2	110	https://zfin.org/action/ontology/term/ZFA:0009116
+satellite cells	satellite cells	Meso	#366E8E	#10D4FA	#2892B4	111	https://zfin.org/action/ontology/term/ZFA:0009272
+cardiac mesenchyme	cardiac mesenchyme	Meso	#366E8E	#10D4FA	#2794B6	112	https://zfin.org/action/ontology/term/ZFA:0009259
+cardiac muscle	cardiac muscle	Meso	#366E8E	#10D4FA	#2796B8	113	https://zfin.org/action/ontology/term/ZFA:0005280
+head mesenchyme	head mesenchyme	Meso	#366E8E	#10D4FA	#2698BA	114	https://zfin.org/ZFA:0000113
+periocular mesenchyme	periocular mesenchyme	Meso	#366E8E	#10D4FA	#259ABC	115	https://zfin.org/action/ontology/term/ZFA:0005572
+cephalic muscles	cephalic muscles	Meso	#366E8E	#10D4FA	#249CBE	116	https://zfin.org/ZFA:0000328
+intermediate mesoderm	intermediate mesoderm	Meso	#366E8E	#10D4FA	#249EC0	117	https://zfin.org/action/ontology/term/ZFA:0001206
+proximal straight tubule	proximal straight tubule	Meso	#366E8E	#10D4FA	#23A0C2	118	https://zfin.org/action/ontology/term/ZFA:0005291#
+proximal convoluted tubule	proximal convoluted tubule	Meso	#366E8E	#10D4FA	#22A2C5	119	https://zfin.org/action/ontology/term/ZFA:0005290
+distal	distal tubule	Meso	#366E8E	#10D4FA	#21A4C7	119.5	https://zfin.org/action/ontology/term/ZFA:0001287
+distal early tubule	distal early tubule	Meso	#366E8E	#10D4FA	#21A6C9	120	https://zfin.org/action/ontology/term/ZFA:0005293
+distal late tubule	distal late tubule	Meso	#366E8E	#10D4FA	#20A8CB	121	https://zfin.org/action/ontology/term/ZFA:0005292
+corpuscles of Stannius	corpuscles of Stannius	Meso	#366E8E	#10D4FA	#1FAACD	122	https://zfin.org/action/ontology/term/ZFA:0001200
+endocardium	endocardium	Meso	#366E8E	#10D4FA	#1EACCF	123	https://zfin.org/action/ontology/term/ZFA:0001320;https://zfin.org/action/ontology/term/ZFA:0001724;https://zfin.org/action/ontology/term/ZFA:0000360;https://zfin.org/action/ontology/term/ZFA:0000149;https://zfin.org/action/ontology/term/ZFA:0000115;https://zfin.org/action/ontology/term/ZFA:0000028;https://zfin.org/action/ontology/term/ZFA:0001065
+heart	heart	Meso	#366E8E	#10D4FA	#1EAED1	124	https://zfin.org/ZFA:0000114
+vasculature	vasculature	Meso	#366E8E	#10D4FA	#1DB0D3	125	https://zfin.org/action/ontology/term/ZFA:0005249
+vascular smooth muscle	vascular smooth muscle	Meso	#366E8E	#10D4FA	#1CB2D5	126	https://zfin.org/action/ontology/term/ZFA:0005321
+visceral smooth muscle	visceral smooth muscle	Meso	#366E8E	#10D4FA	#1BB4D8	127	https://zfin.org/action/ontology/term/ZFA:0005274
+smooth muscle (likely visceral)	visceral smooth muscle	Meso	#366E8E	#10D4FA	#1BB4D8	127	https://zfin.org/action/ontology/term/ZFA:0005274
+hemangioblasts	hemangioblasts	Meso	#366E8E	#10D4FA	#1BB6DA	129	https://zfin.org/action/ontology/term/GO:0060217
+hematopoietic stem cell	hematopoietic stem cell	Meso	#366E8E	#10D4FA	#1AB8DC	130	https://zfin.org/action/ontology/term/ZFA:0009014
+hemogenic endothelium	hemogenic endothelium	Meso	#366E8E	#10D4FA	#19BADE	131	https://zfin.org/action/ontology/term/ZFA:0005257
+erythroblasts (primitive)	erythroblasts	Meso	#366E8E	#10D4FA	#18BCE0	132	https://zfin.org/action/ontology/term/ZFA:0005237
+erythrocytes (primitive)	erythrocytes	Meso	#366E8E	#10D4FA	#18BEE2	133	https://zfin.org/action/ontology/term/ZFA:0009256
+granulocytes	granulocytes	Meso	#366E8E	#10D4FA	#17C0E4	134	https://zfin.org/action/ontology/term/ZFA:0009048
+T cells	lymphocytes	Meso	#366E8E	#10D4FA	#16C2E6	135	https://zfin.org/action/ontology/term/ZFA:0009250
+lymphocytes	lymphocytes	Meso	#366E8E	#10D4FA	#16C2E6	135	https://zfin.org/action/ontology/term/ZFA:0009250
+macrophages	macrophages	Meso	#366E8E	#10D4FA	#15C4E9	137	https://zfin.org/action/ontology/term/ZFA:0009141
+fin mesenchyme	fin mesenchyme	Meso	#366E8E	#10D4FA	#15C6EB	138	https://zfin.org/action/ontology/term/ZFA:0000393
+pectoral fin bud	pectoral fin bud	Meso	#366E8E	#10D4FA	#14C8ED	139	https://zfin.org/action/ontology/term/ZFA:0000141
+pectoral fin mesenchyme	pectoral fin mesenchyme	Meso	#366E8E	#10D4FA	#13CAEF	140	https://zfin.org/action/ontology/term/ZFA:0001000
+medial fin mesenchyme	medial fin mesenchyme	Meso	#366E8E	#10D4FA	#12CCF1	141	https://zfin.org/action/ontology/term/ZFA:0000393
+mesenchyme	mesenchyme	Meso	#366E8E	#10D4FA	#12CEF3	143	https://zfin.org/action/ontology/term/ZFA:0000393
+unknown (facial mesenchyme?)	facial mesenchyme	Meso	#366E8E	#10D4FA	#11D0F5	144	https://zfin.org/action/ontology/term/ZFA:0000393
+mural cell	mural cell	Meso	#366E8E	#10D4FA	#10D2F7	145	https://zfin.org/action/ontology/term/ZFA:0005944
+mural cell (pdgrfa+/b-)	mural cell	Meso	#366E8E	#10D4FA	#10D2F7	145	https://zfin.org/action/ontology/term/ZFA:0005944
+pericyte	pericyte	Meso	#366E8E	#10D4FA	#10D4FA	147	https://zfin.org/action/ontology/term/ZFA:0009112
+thyroid	thyroid	Endo	#917b30	#F2DD20	#917B30	148	
+esophagus	esophagus	Endo	#917b30	#F2DD20	#9E892D	149	https://zfin.org/action/ontology/term/ZFA:0000204
+pneumatic duct	pneumatic duct	Endo	#917b30	#F2DD20	#AC972B	150	https://zfin.org/action/ontology/term/ZFA:0001430
+liver	liver	Endo	#917b30	#F2DD20	#BAA529	151	https://zfin.org/action/ontology/term/ZFA:0000123
+exocrine pancreas	exocrine pancreas	Endo	#917b30	#F2DD20	#C8B326	152	https://zfin.org/action/ontology/term/ZFA:0001249
+endocrine pancreas	endocrine pancreas	Endo	#917b30	#F2DD20	#D6C124	153	https://zfin.org/action/ontology/term/ZFA:0001260
+intestine	intestine	Endo	#917b30	#F2DD20	#E4CF22	154	https://zfin.org/action/ontology/term/ZFA:0001338
+cloaca	cloaca	Endo	#917b30	#F2DD20	#F2DD20	155	https://zfin.org/action/ontology/term/ZFA:0005781
+fin epidermis + mesenchyme	NA	NA	NA	NA	NA	156	
+likely doublets	NA	NA	NA	NA	NA	157	
+NA	NA	NA	NA	NA	NA	158	
+putative doublets	NA	NA	NA	NA	NA	159	
+mixed signature	NA	NA	NA	NA	NA	160	
+unknown	NA	NA	NA	NA	NA	161	
+unknown/technical	NA	NA	NA	NA	NA	162	
+doublets?	NA	NA	NA	NA	NA	163	
