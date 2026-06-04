@@ -1,10 +1,10 @@
 # LEAP_sourcedata
 
-Source data for the LEAP framework analyses, associated with the TarCA method publication.
+Source data for the LEAP framework analyses.
 
 ## Overview
 
-This repository contains source data and supplementary materials used in the study "A statistical method for quantifying progenitor cells reveals incipient cell fate commitments" (Deng et al., *Nature Methods*, 2024). This work presents **TarCA** (Targeting Coalescent Analysis), a statistical method for quantifying progenitor cell numbers and detecting lineage-specific upregulated genes (LUGs) using cell phylogenetic trees.
+This repository contains source data and supplementary materials used in the study "Reconstructing cell phylogenies with resolved ancestral transcriptional states". This work presents **LEAP** (**L**UG-**e**ncoded **A**ncestral **P**rojection), a phylogeny-based computational framework designed to infer the transcriptional states of internal nodes within cellular lineages.
 
 ## Repository Structure
 
@@ -30,9 +30,10 @@ Contains experimental data and pipeline outputs.
 
 ## Related Resources
 
+- **LEAP R package**: [github.com/shadowdeng1994/LEAP](https://github.com/shadowdeng1994/LEAP)
 - **TarCA R package**: [github.com/shadowdeng1994/TarCA](https://github.com/shadowdeng1994/TarCA)
-- **TarCA source data**: [github.com/shadowdeng1994/TarCA_sourcedata](https://github.com/shadowdeng1994/TarCA_sourcedata)
-- **Publication**: Deng et al. (2024) *Nature Methods*, DOI: [10.1038/s41592-024-02189-7](https://doi.org/10.1038/s41592-024-02189-7)
+- **TarCA.beta R package (Quicker)**: [github.com/shadowdeng1994/TarCA](https://github.com/shadowdeng1994/TarCA.beta)
+- **Relevant publication**: Deng et al. (2024) *Nature Methods*, DOI: [10.1038/s41592-024-02189-7](https://doi.org/10.1038/s41592-024-02189-7)
 - **Contact**: Shanjun Deng (shadowdeng1994@gmail.com)
 
 ## Citation
